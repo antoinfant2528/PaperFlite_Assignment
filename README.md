@@ -13,13 +13,12 @@ Java
 1. Navigate to src folder:
    cd src
 
-2. Compile:
-   javac Main.java
 
-3. Run:
-   java Main
+2.Compile files:
+javac *.java
 
-## Sample Outputs
-Single Number: 4
-Smallest after removal: 1219
-Word Pattern: true
+3.Run each problem:
+
+java ProblemOne
+java ProblemTwo
+java ProblemThree
